@@ -9,8 +9,6 @@ use WebSocket::Client;
 
 use Test::TCP;
 
-plan 4;
-
 my $port = 15555;
 
 # server thread
