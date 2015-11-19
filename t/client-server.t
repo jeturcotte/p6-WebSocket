@@ -9,7 +9,7 @@ use WebSocket::Client;
 
 use Test::TCP;
 
-plan 5;
+plan 4;
 
 my $port = 15555;
 
